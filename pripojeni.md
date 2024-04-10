@@ -2,7 +2,7 @@
 title: Jak se připojit?
 description: popis
 published: true
-date: 2024-04-10T11:39:45.156Z
+date: 2024-04-10T17:58:56.042Z
 tags: připojení, ip, verze
 editor: markdown
 dateCreated: 2024-04-09T16:06:43.579Z
@@ -44,6 +44,12 @@ Server má automatickou detekci, zda se hráč připojuje s platnou placenou lic
 
 ## Lobby
 Tento server je vstupní branou do naší nabídky. Je zde pouze spawn s několika NPC, které poskytují přístup na další servery. Každý hráč se při připojení ocitne vždy na spawnu a v jejich inventáři v hotbaru se nachází předměty, kterými lze ovládat GUI. Nejdůležitějším předmětem je netherová hvězda, která otevírá menu s výběrem serverů.
+
+![lobby_npcs.png](/lobby_npcs.png)
+Lobby spawn a NPC
+
+![lobby_server_selector.png](/lobby_server_selector.png)
+GUI menu výběru serveru
 
 ## Survival
 > Více informací se dozvíš na stránce [Survival](/survival).
