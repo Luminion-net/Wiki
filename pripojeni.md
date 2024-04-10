@@ -1,8 +1,8 @@
 ---
 title: Jak se připojit?
-description: popis
+description: Základní informace
 published: true
-date: 2024-04-10T17:58:56.042Z
+date: 2024-04-10T17:59:53.874Z
 tags: připojení, ip, verze
 editor: markdown
 dateCreated: 2024-04-09T16:06:43.579Z
