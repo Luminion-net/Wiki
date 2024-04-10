@@ -2,7 +2,7 @@
 title: Jak se připojit?
 description: popis
 published: true
-date: 2024-04-10T11:30:15.272Z
+date: 2024-04-10T11:39:45.156Z
 tags: připojení, ip, verze
 editor: markdown
 dateCreated: 2024-04-09T16:06:43.579Z
@@ -46,16 +46,16 @@ Server má automatickou detekci, zda se hráč připojuje s platnou placenou lic
 Tento server je vstupní branou do naší nabídky. Je zde pouze spawn s několika NPC, které poskytují přístup na další servery. Každý hráč se při připojení ocitne vždy na spawnu a v jejich inventáři v hotbaru se nachází předměty, kterými lze ovládat GUI. Nejdůležitějším předmětem je netherová hvězda, která otevírá menu s výběrem serverů.
 
 ## Survival
-> Více informací se dozvíš na stránce [Survival](survival).
+> Více informací se dozvíš na stránce [Survival](/survival).
 {.is-info}
 
 Pestrý server s rozšířenou generací světa, herní ekonomikou a MMO-RPG prvky, které z hrani vytváří neobyčejný zážitek. Plň questy, obchoduj s ostatními hráči, nebo prostě jen prozkoumávej svět.
 
-> Server má zapnuté PVP. Chceš-li své věci chránit, zvaž vytvoření nebo přihlášku do nějakého [pozemku](pozemky).
+> Server má zapnuté PVP. Chceš-li své věci chránit, zvaž vytvoření nebo přihlášku do nějakého [pozemku](/pozemky).
 {.is-warning}
 
 ## PVP Practice
-> Více informací se dozvíš na stránce [PVP Practice](pvp-practice).
+> Více informací se dozvíš na stránce [PVP Practice](/pvp-practice).
 {.is-info}
 
 Miniherní server určený pro fanoušky PVP. Jedná se o cvičební server, kde si hráči mohou vyzkoušet různé PVP duely nebo týmové souboje, nebo se mohou zkrátka navzájem mlátit (režim *Free For All*).
