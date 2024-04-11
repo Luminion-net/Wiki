@@ -2,7 +2,7 @@
 title: Jak se připojit?
 description: Základní informace
 published: true
-date: 2024-04-11T10:57:39.647Z
+date: 2024-04-11T11:03:13.113Z
 tags: připojení, ip, verze
 editor: markdown
 dateCreated: 2024-04-09T16:06:43.579Z
@@ -69,3 +69,5 @@ Miniherní server určený pro fanoušky PVP. Jedná se o cvičební server, kde
 ## Vanilla
 > Server je momentálně uzavřen. Podle zájmu plánujeme server v budoucnu znovu otevřít.
 {.is-danger}
+
+Semi-vanilla server s minimem pluginů. Na serveru se nachází jen nutné minimum k zajištění zabezpečení světa a hráčů. Hra samotná je velmi blízko k výchozí hře v single player světě.
