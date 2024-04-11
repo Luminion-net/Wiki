@@ -2,7 +2,7 @@
 title: Jak se připojit?
 description: Základní informace
 published: true
-date: 2024-04-10T21:58:54.527Z
+date: 2024-04-11T10:57:39.647Z
 tags: připojení, ip, verze
 editor: markdown
 dateCreated: 2024-04-09T16:06:43.579Z
@@ -65,3 +65,7 @@ Pestrý server s rozšířenou generací světa, herní ekonomikou a MMO-RPG prv
 {.is-info}
 
 Miniherní server určený pro fanoušky PVP. Jedná se o cvičební server, kde si hráči mohou vyzkoušet různé PVP duely nebo týmové souboje, nebo se mohou zkrátka navzájem mlátit (režim *Free For All*).
+
+## Vanilla
+> Server je momentálně uzavřen. Podle zájmu plánujeme server v budoucnu znovu otevřít.
+{.is-danger}
