@@ -2,13 +2,16 @@
 title: Hlasování
 description: Základní informace
 published: true
-date: 2024-04-11T20:02:01.439Z
+date: 2024-04-11T20:03:40.968Z
 tags: hlasování, odměny
 editor: markdown
 dateCreated: 2024-04-10T18:57:38.556Z
 ---
 
 Na serveru máme systém odměn za hlasování. To znamená, že za každý hlas získáváš něco za odměnu. V závislosti na serveru to může být např. klíč k hlasovací bedně nebo nějaký hodnotný předmět. V rámci serveru **Survival** to je hlasovací klíč, kterým se otevírá hlasovací bedna na spawnu. V rámci serveru **PVP Practice** to je virtuální hlasovací klíč.
+
+> Klíč dostaneš jen jeden, podle toho na jakém serveru se při hlasování nacházíš nebo na jaký server se po hlasování připojíš.
+{.is-info}
 
 # FAQ
 Zde najdeš nejčastější dotazy ohledně hlasování. Pokud jsi nenašel/-a odpověď na svoji otázku, neváhej kontaktovat podporu.
