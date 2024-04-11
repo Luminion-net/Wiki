@@ -2,7 +2,7 @@
 title: Hlasování
 description: Základní informace
 published: true
-date: 2024-04-11T19:07:03.890Z
+date: 2024-04-11T19:07:27.407Z
 tags: hlasování, odměny
 editor: markdown
 dateCreated: 2024-04-10T18:57:38.556Z
@@ -42,7 +42,7 @@ Klíč lze použít na spawnu. Příkazem `/spawn` se lze teleportovat na spawn 
 {.is-success}
 
 ![Bedny na spawnu Survivalu](/survival_crates.png)
-Bedny umístěné na spawnu{.align-center}
+Bedny umístěné na spawnu
 
 ## Mám klíč, ale bedna mě odhodí
 > Toto se týká serveru **Survival**.
