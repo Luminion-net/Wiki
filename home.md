@@ -2,7 +2,7 @@
 title: Hlavní stránka
 description: Vítej na wiki Luminionu.
 published: true
-date: 2024-04-11T19:00:25.289Z
+date: 2024-04-11T19:01:13.009Z
 tags: home, homepage
 editor: markdown
 dateCreated: 2024-04-08T15:32:55.560Z
@@ -26,7 +26,8 @@ Za každou pomoc budeme nesmírně rádi. Odměnou ti mohou být např. kredity,
 Pokud žádný z těchto dotazů neobsahuje odpověď na tvoji otázku, neváhej založit ticket na našem [Discordu](https://discord.luminion.net) nebo [Webu](https://luminion.net). Rádi ti na tvoji otázku odpovíme. Další možností je napsat na email support@luminion.net.
 
 ## PŘIPOJENÍ
-> K serveru se lze připojit zadáním adresy `play.luminion.net`. Podporujeme Minecraft: Java Edition verze 1.8.x-1.20.x
+> K serveru se lze připojit zadáním adresy `play.luminion.net`.
+> Podporujeme Minecraft: Java Edition verze 1.8.x-1.20.x
 {.is-success}
 
 ### Mám Pocket Edition. Mohu se připojit?
