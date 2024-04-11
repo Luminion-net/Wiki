@@ -1,8 +1,8 @@
 ---
 title: Hlavní stránka
-description: Vítejte na wiki Luminionu.
+description: Vítej na wiki Luminionu.
 published: true
-date: 2024-04-11T18:45:27.485Z
+date: 2024-04-11T18:45:55.482Z
 tags: home, homepage
 editor: markdown
 dateCreated: 2024-04-08T15:32:55.560Z
