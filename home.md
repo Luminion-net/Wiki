@@ -2,7 +2,7 @@
 title: Hlavní stránka
 description: Vítej na wiki Luminionu.
 published: true
-date: 2024-04-11T19:51:45.880Z
+date: 2024-04-11T23:08:03.332Z
 tags: home, homepage
 editor: markdown
 dateCreated: 2024-04-08T15:32:55.560Z
@@ -20,7 +20,7 @@ Wiki zatím neobsahuje všechny části, ale nové stránky s návody budou post
 Za každou pomoc budeme nesmírně rádi. Odměnou ti mohou být např. kredity, za které si můžeš koupit [kosmetické doplňky](/kosmeticke-doplnky) nebo [VIP](/vip).
 
 # FAQ
-> Zde najdeš nejčastější dotazy hráčů ohledně připojení.
+> Zde najdeš nejčastější dotazy hráčů týkající se serveru.
 {.is-info}
 
 Pokud žádný z těchto dotazů neobsahuje odpověď na tvoji otázku nebo se vyskytnou potíže, neváhej založit ticket na našem [Discordu](https://discord.luminion.net) nebo [Webu](https://luminion.net). Rádi ti na tvoji otázku odpovíme. Další možností je napsat na email support@luminion.net.
