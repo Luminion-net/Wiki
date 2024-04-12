@@ -2,13 +2,13 @@
 title: Aukční síň
 description: Základní informace
 published: true
-date: 2024-04-12T07:47:14.930Z
+date: 2024-04-12T07:48:25.309Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-12T07:02:35.114Z
 ---
 
-Na **Survival** serveru máme aukci, ve které lze prodávat předměty a kupovat. Prodávat lze dvěma způsoby. Prvním způsobem se předmět prodává s pevnou cenou a druhým způsobem se prodává s možností příhozu.
+Na **Survival** serveru máme aukční síň, ve které lze prodávat předměty a kupovat. Prodávat lze dvěma způsoby. Prvním způsobem se předmět prodává s pevnou cenou a druhým způsobem se prodává s možností příhozu.
 
 # FAQ
 Zde najdeš nejčastější dotazy ohledně aukční síně. Pokud jsi nenašel/-a odpověď na svoji otázku, neváhej kontaktovat podporu.
@@ -32,8 +32,8 @@ Všechny předměty které se neprodaly najdeš ve sběrném koši který se nac
 > Předměty ve sběrném koši nikdy nezmizí, můžeš je kdykoliv vyzvednout.
 {.is-success}
 
-## Jak dlouho můžu mít předmět v aukci?
+## Jak dlouho můžu mít předmět v aukční síni?
 
 To záleží na způsobu prodeje předmětu, jsou dva způsoby prodeje, každý způsob má svojí pevně danou délku po kterou je předmět v aukční síni. **Pevná cena** nebo **aukce** s možností příhozu.
-1. Předmět s **pevnou cenou** vydrží v aukci po dobu 24 hodin.
-2. Předmět s **možností příhozu** **(aukce)** vydrží v aukci po dobu 7 dnů.
+1. Předmět s **pevnou cenou** vydrží v aukční síni po dobu 24 hodin.
+2. Předmět s **možností příhozu** **(aukce)** vydrží v aukční síni po dobu 7 dnů.
