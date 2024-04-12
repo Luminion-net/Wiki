@@ -2,7 +2,7 @@
 title: Aukce
 description: Základní informace
 published: false
-date: 2024-04-12T07:27:58.222Z
+date: 2024-04-12T07:39:08.033Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-12T07:02:35.114Z
@@ -31,3 +31,9 @@ Všechny předměty které se neprodaly najdeš ve sběrném koši který se nac
 
 > Předměty ve sběrném koši nikdy nezmizí, můžeš je kdykoliv vyzvednout.
 {.is-success}
+
+## Jak dlouho můžu mít předmět v aukci?
+
+To záleží na způsobu prodeje předmětu, jsou dva způsoby prodeje, každý způsob má svojí pevně danou délku po kterou je předmět v aukční síni. **Pevná cena** nebo **aukce** s možností příhozu.
+1. Předmět s **pevnou cenou** vydrží v aukci po dobu 24 hodin.
+2. Předmět s **možností příhozu** **(aukce)** vydrží v aukci po dobu 7 dnů.
