@@ -2,7 +2,7 @@
 title: Aukce
 description: Základní informace
 published: false
-date: 2024-04-12T07:24:52.870Z
+date: 2024-04-12T07:25:34.763Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-12T07:02:35.114Z
