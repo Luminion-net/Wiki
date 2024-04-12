@@ -1,8 +1,8 @@
 ---
-title: Aukce
+title: Aukční síň
 description: Základní informace
 published: true
-date: 2024-04-12T07:46:34.743Z
+date: 2024-04-12T07:47:14.930Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-12T07:02:35.114Z
