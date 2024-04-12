@@ -1,8 +1,8 @@
 ---
 title: Aukce
 description: Základní informace
-published: false
-date: 2024-04-12T07:39:08.033Z
+published: true
+date: 2024-04-12T07:46:34.743Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-12T07:02:35.114Z
