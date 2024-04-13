@@ -2,7 +2,7 @@
 title: Aukční síň
 description: Základní informace
 published: true
-date: 2024-04-12T07:48:25.309Z
+date: 2024-04-13T18:31:35.236Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-12T07:02:35.114Z
@@ -35,5 +35,5 @@ Všechny předměty které se neprodaly najdeš ve sběrném koši který se nac
 ## Jak dlouho můžu mít předmět v aukční síni?
 
 To záleží na způsobu prodeje předmětu, jsou dva způsoby prodeje, každý způsob má svojí pevně danou délku po kterou je předmět v aukční síni. **Pevná cena** nebo **aukce** s možností příhozu.
-1. Předmět s **pevnou cenou** vydrží v aukční síni po dobu 24 hodin.
-2. Předmět s **možností příhozu** **(aukce)** vydrží v aukční síni po dobu 7 dnů.
+- Předmět s **pevnou cenou** vydrží v aukční síni po dobu 24 hodin.
+- Předmět s **možností příhozu** **(aukce)** vydrží v aukční síni po dobu 7 dnů.
