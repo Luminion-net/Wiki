@@ -1,9 +1,9 @@
 ---
 title: Aukční síň
-description: Základní informace
+description: Ekonomika
 published: true
-date: 2024-04-13T18:31:35.236Z
-tags: 
+date: 2024-04-14T20:57:35.124Z
+tags: ekonomika, aukce
 editor: markdown
 dateCreated: 2024-04-12T07:02:35.114Z
 ---
