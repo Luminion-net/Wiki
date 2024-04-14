@@ -2,7 +2,7 @@
 title: Hlasování
 description: Základní informace
 published: true
-date: 2024-04-11T20:03:40.968Z
+date: 2024-04-14T15:11:21.704Z
 tags: hlasování, odměny
 editor: markdown
 dateCreated: 2024-04-10T18:57:38.556Z
@@ -31,18 +31,20 @@ Další možností je se připojit do hry a spustit příkaz `/vote`, který do 
 Zkus chvíli počkat, hlasovací servery mohou být přetížené. Pokud se odměna neobjeví do pár desítek minut, kontaktuj podporu.
 
 ## Za hlasování jsem dostal/-a klíč. Co s ním?
-> Toto se týká serveru **Survival**.
+> Toto se týká serverů **Survival** a **PVP Practice**.
 {.is-info}
 
 ![GUI kola štěstí](/survival_crates_vote.png =250x){.align-right}
 
-Klíč lze použít na spawnu. Příkazem `/spawn` se lze teleportovat na spawn svět, kousek pod spawn pódiem najdeš bedny. Prostřední bedna se dá otevřít hlasovacím klíčem. Stačí zmáčknout pravé tlačítko myši a otevře se GUI kola štěstí. Výhra z kola štestí se vždy napíše do chatu.
+Klíč lze použít na spawnu **Survivalu**. Příkazem `/spawn` se lze teleportovat na spawn svět, kousek pod spawn pódiem najdeš bedny. Prostřední bedna se dá otevřít hlasovacím klíčem. Stačí zmáčknout pravé tlačítko myši a otevře se GUI kola štěstí. Výhra z kola štestí se vždy napíše do chatu.
 
 > Kolo štěstí lze zavřít, a tak lze animaci přeskočit.
 {.is-success}
 
 ![Bedny na spawnu Survivalu](/survival_crates.png)
-Bedny umístěné na spawnu
+Bedny umístěné na spawnu Survivalu
+
+Server **PVP Practice** má na spawnu také hlasovací bednu, ale klíče k této bedně jsou virtuální (tedy nezobrazí se v inventáři, není to fyzický předmět). Bedna tak lze otevřít, aniž bys klíč musel/-a držet v ruce. Předměty v této bedně jsou především kosmetické doplňky pro tento server.
 
 ## Mám klíč, ale bedna mě odhodí
 > Toto se týká serveru **Survival**.
@@ -54,3 +56,21 @@ Aby bylo možné bednu otevřít, je třeba splnit dvě podmínky:
 
 > Nepotřebné věci si někam odlož nebo je někomu prodej či daruj. Nechej si v inventáři tolik místa, kolik potřebuješ pro odměny z hlasování.
 {.is-danger}
+
+## Jak si zobrazím jednotlivé výhry?
+> Toto se týká serverů **Survival** a **PVP Practice**.
+{.is-info}
+
+Kliknutím levým tlačítkem myši na hlasovací bednu na **Survivalu** i na serveru **PVP Practice** si lze otevřít GUI seznam jednotlivých výher, kde jsou informace o šancích. Na **Survivalu** navíc funguje i zmáčknutí klávesy <kbd>Q</kbd> (výchozí klávesa pro vyhození předmětu) v inventáři nad hlasovacím klíčem.
+
+# Hlasovací stránky
+> Seznam hlasovacích stránek server listů budeme postupně rozšiřovat. Aktuální seznam hlasovacích stránek naleznete na [Webu](https://luminion.net/vote).
+{.is-info}
+
+- [Czech-Craft.eu *Hlasovat pro Luminion.net*](https://czech-craft.eu/server/luminion-net/vote/)
+- [Craftlist.org *Luminion.net*](https://craftlist.org/luminion-net)
+- [MinecraftServery.eu *Hlasovat pro Luminion.net*](https://minecraftservery.eu/server/luminionnet/vote)
+{.links-list}
+
+> Na hlasovacích stránkách je možné hlasovat každé 2 hodiny.
+{.is-warning}
