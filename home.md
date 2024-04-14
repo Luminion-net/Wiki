@@ -1,11 +1,11 @@
 ---
 title: Hlavní stránka
-description: Vítej na wiki Luminionu.
+description: Vítejte na wiki Luminionu
 published: true
-date: 2024-04-11T23:08:03.332Z
+date: 2024-04-14T17:31:46.845Z
 tags: home, homepage
 editor: markdown
-dateCreated: 2024-04-08T15:32:55.560Z
+dateCreated: 2024-04-14T17:31:46.845Z
 ---
 
 > Vítej na wiki Luminion.net. Zde najdeš podrobné informace o našem serveru, jak používat pluginy, příkazy a další funkce serveru.
