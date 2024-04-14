@@ -2,13 +2,15 @@
 title: Aukční síň
 description: Ekonomika
 published: true
-date: 2024-04-14T20:57:35.124Z
+date: 2024-04-14T20:59:37.050Z
 tags: ekonomika, aukce
 editor: markdown
 dateCreated: 2024-04-12T07:02:35.114Z
 ---
 
-Na **Survival** serveru máme aukční síň, ve které lze prodávat předměty a kupovat. Prodávat lze dvěma způsoby. Prvním způsobem se předmět prodává s pevnou cenou a druhým způsobem se prodává s možností příhozu.
+> Na **Survival** serveru máme aukční síň, ve které lze prodávat předměty a kupovat. Prodávat lze dvěma způsoby. Prvním způsobem se předmět prodává s pevnou cenou a druhým způsobem se prodává s možností příhozu.
+{.is-info}
+
 
 # FAQ
 Zde najdeš nejčastější dotazy ohledně aukční síně. Pokud jsi nenašel/-a odpověď na svoji otázku, neváhej kontaktovat podporu.
