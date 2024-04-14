@@ -2,8 +2,8 @@
 title: Hlasování
 description: Základní informace
 published: true
-date: 2024-04-14T15:11:21.704Z
-tags: hlasování, odměny
+date: 2024-04-14T20:55:13.807Z
+tags: hlasování, odměny, základní info
 editor: markdown
 dateCreated: 2024-04-10T18:57:38.556Z
 ---
