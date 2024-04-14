@@ -2,7 +2,7 @@
 title: VIP a kredity
 description: Základní informace
 published: true
-date: 2024-04-14T20:54:13.200Z
+date: 2024-04-14T20:54:45.785Z
 tags: základní info, vip, kredity
 editor: markdown
 dateCreated: 2024-04-14T16:02:43.891Z
@@ -13,4 +13,4 @@ Na server lze podpořit koupí VIP a/nebo kosmetických klíčů, za které lze 
 > 5 kreditů hráč získává také za odehraný čas každých 6 hodin. Herní čas je pro tyto účely společný pro všechny servery.
 {.is-success}
 
-![menu_vip_shop.png](/menu_vip_shop.png)
+![VIP obchod v menu](/menu_vip_shop.png)
