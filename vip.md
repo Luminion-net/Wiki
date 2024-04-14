@@ -2,7 +2,7 @@
 title: VIP a kredity
 description: Základní informace
 published: true
-date: 2024-04-14T20:54:45.785Z
+date: 2024-04-14T22:38:08.620Z
 tags: základní info, vip, kredity
 editor: markdown
 dateCreated: 2024-04-14T16:02:43.891Z
