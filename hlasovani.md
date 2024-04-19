@@ -2,7 +2,7 @@
 title: Hlasování
 description: Základní informace
 published: true
-date: 2024-04-14T20:55:13.807Z
+date: 2024-04-19T19:55:47.222Z
 tags: hlasování, odměny, základní info
 editor: markdown
 dateCreated: 2024-04-10T18:57:38.556Z
@@ -44,7 +44,7 @@ Klíč lze použít na spawnu **Survivalu**. Příkazem `/spawn` se lze teleport
 ![Bedny na spawnu Survivalu](/survival_crates.png)
 Bedny umístěné na spawnu Survivalu
 
-Server **PVP Practice** má na spawnu také hlasovací bednu, ale klíče k této bedně jsou virtuální (tedy nezobrazí se v inventáři, není to fyzický předmět). Bedna tak lze otevřít, aniž bys klíč musel/-a držet v ruce. Předměty v této bedně jsou především kosmetické doplňky pro tento server.
+Server **PVP Practice** má na spawnu také hlasovací bedny, které jsou jako položky GUI menu zobrazitelného po kliknutí na dračí vejce, ale klíče k těmto bednám jsou virtuální (tedy nezobrazí se v inventáři, není to fyzický předmět). Bedny tak lze otevřít, aniž bys klíče musel/-a držet v ruce. Hlasovací bedna obsahuje základní kosmetické doplňky a také s určitou malou šancí klíče k ostatním bednám, které obsahují vzácnější výhry.
 
 ## Mám klíč, ale bedna mě odhodí
 > Toto se týká serveru **Survival**.
@@ -64,7 +64,7 @@ Aby bylo možné bednu otevřít, je třeba splnit dvě podmínky:
 Kliknutím levým tlačítkem myši na hlasovací bednu na **Survivalu** i na serveru **PVP Practice** si lze otevřít GUI seznam jednotlivých výher, kde jsou informace o šancích. Na **Survivalu** navíc funguje i zmáčknutí klávesy <kbd>Q</kbd> (výchozí klávesa pro vyhození předmětu) v inventáři nad hlasovacím klíčem.
 
 # Hlasovací stránky
-> Seznam hlasovacích stránek server listů budeme postupně rozšiřovat. Aktuální seznam hlasovacích stránek naleznete na [Webu](https://luminion.net/vote).
+> Seznam hlasovacích stránek server listů budeme postupně rozšiřovat. Aktuální seznam hlasovacích stránek nalezneš na [Webu](https://luminion.net/vote).
 {.is-info}
 
 - [Czech-Craft.eu *Hlasovat pro Luminion.net*](https://czech-craft.eu/server/luminion-net/vote/)
