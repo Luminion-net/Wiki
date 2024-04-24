@@ -2,8 +2,8 @@
 title: Servery
 description: Základní informace
 published: true
-date: 2024-04-14T20:56:19.969Z
-tags: základní info, servery
+date: 2024-04-24T17:43:33.452Z
+tags: základní info, seznam serverů
 editor: markdown
 dateCreated: 2024-04-11T18:53:30.098Z
 ---
