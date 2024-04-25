@@ -2,7 +2,7 @@
 title: Aukční síň
 description: Ekonomika
 published: true
-date: 2024-04-24T17:33:58.684Z
+date: 2024-04-25T01:44:56.476Z
 tags: ekonomika, aukce
 editor: markdown
 dateCreated: 2024-04-12T07:02:35.114Z
@@ -27,7 +27,7 @@ Zde najdeš nejčastější dotazy ohledně aukční síně. Pokud jsi nenašel/
 > Hráč může mít v aukční síni na prodej maximálně 10 předmětu, VIP hráč 30 předmětů.
 {.is-info}
 
-## Kde najdu předměty které se neprodali?
+## Kde najdu předměty které se neprodaly?
 
 Všechny předměty které se neprodaly najdeš ve sběrném koši který se nachází v `/ah expired`, pokuď chceš neprodaný předmět vyzvednout, klikni na něj a přesune se ti do inventáře.
 
