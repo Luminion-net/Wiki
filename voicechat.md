@@ -2,7 +2,7 @@
 title: Voice chat
 description: Součásti serveru
 published: true
-date: 2024-05-10T15:50:47.712Z
+date: 2024-05-10T17:17:35.099Z
 tags: součásti serveru, voicechat, hlas
 editor: markdown
 dateCreated: 2024-04-24T17:40:53.287Z
@@ -25,10 +25,11 @@ Zvol si verzi pro svůj mod loader. Pokud používáš samostatný mod Optifine,
 
 ## Ikony
 Na serveru používáme standardní ikony převzaté z resourcepacku samotného modu. Tyto ikony znázorňují status voice chatu daného hráče.
-| Odpojen | Zapnutý zvuk i mikrofon | Vypnutý zvuk i mikrofon |
-|---------|-------------------------|-------------------------|
-| ![Ikona odpojeného voice chatu](/vc_disconnected.png) | ![Ikona zapnutého voice chatu a mikrofonu](/vc_speaker.png) | ![Ikona vypnutého voice chatu vč. zvuku](/vc_speaker_off.png) |
-| Tato ikona se zobrazí, pokud hráč nemá voice chat nainstalovaný. | Tato ikona se zobrazí, pokud má hráč zapnutý zvuk i mikrofon. | Tato ikona se zobrazí, pokud má hráč vypnutý mikrofon i zvuk. |
+| Odpojen | Vypnutý zvuk i mikrofon |
+|---------|-------------------------|
+| ![Ikona odpojeného voice chatu](/vc_disconnected.png) | ![Ikona vypnutého voice chatu vč. zvuku](/vc_speaker_off.png) |
+| Tato ikona se zobrazí, pokud hráč nemá voice chat nainstalovaný. | Tato ikona se zobrazí, pokud má hráč vypnutý mikrofon i zvuk. |
+{.align-center}
 
 ## Verze
 > Server používá verzi voice chatu 2.5.x. Pokud se připojíš s jinou verzí, voice chat ti nebude fungovat.
