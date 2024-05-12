@@ -2,18 +2,11 @@
 title: Admin příkazy
 description: Sekce adminů
 published: true
-date: 2024-05-12T15:49:58.157Z
+date: 2024-05-12T15:51:55.078Z
 tags: sekce adminů, příkazy
 editor: markdown
 dateCreated: 2024-04-24T17:47:40.538Z
 ---
-
-> Na určitý příkazy se nachádzejí i alternativy.
-{.is-info}
-
-> Nikdo nemá přístup k **/gmc** [Gamemode Creative] kromě stavebního světa (zatím není).
-{.is-danger}
-
 
 | Příkaz | Vysvětlení |
 |-----------|-----------|
@@ -36,6 +29,11 @@ dateCreated: 2024-04-24T17:47:40.538Z
 | **/weather [rain/storm/sun]**| Změní počasí ve světě kde se nacházíš na vybrané
 | **/vanish [on/off]**| Zapne/Vypne zneviditelnění se a žádný hráč nemá šanci poznat že jsi na serveru
 | **/vanish list** | Zobrazí všechny hráče kteří mají zapnutý vanish
+
+> Na určitý příkazy se nachádzejí i alternativy.
+{.is-info}
+
+|----------|-------|
 | **/time [day/night/atd.]**| Nastaví specifický čas ve světě kde se nacházíš
 | **/clearchat**| Vymaže chat na serveru
 | **/fly**| Aktivuje létání
@@ -52,3 +50,6 @@ dateCreated: 2024-04-24T17:47:40.538Z
 | **/co inspect**| Zapne režim kontroly, zobrazuje informace o interakcích specifického bloku na který klikáš rukou
 | **/gmsp**| Nastaví pro tebe spectator mod
 | **/gms**|  Nastaví pro tebe survival mod
+
+> Nikdo nemá přístup k **/gmc** [Gamemode Creative] kromě stavebního světa (zatím není).
+{.is-danger}
