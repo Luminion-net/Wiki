@@ -2,11 +2,18 @@
 title: Admin příkazy
 description: Sekce adminů
 published: true
-date: 2024-05-12T15:32:25.050Z
+date: 2024-05-12T15:47:24.785Z
 tags: sekce adminů, příkazy
 editor: markdown
 dateCreated: 2024-04-24T17:47:40.538Z
 ---
+
+> Na určitý příkazy se nachádzejí i alternativy.
+{.is-info}
+
+> Nikto nemá prístup na **/gmc** [Gamemode Creative].
+{.is-danger}
+
 
 | Příkaz | Vysvětlení |
 |-----------|-----------|
