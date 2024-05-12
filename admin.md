@@ -2,7 +2,7 @@
 title: Admin příkazy
 description: Sekce adminů
 published: true
-date: 2024-05-12T15:19:39.303Z
+date: 2024-05-12T15:32:25.050Z
 tags: sekce adminů, příkazy
 editor: markdown
 dateCreated: 2024-04-24T17:47:40.538Z
