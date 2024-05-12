@@ -2,13 +2,13 @@
 title: Admin příkazy
 description: Sekce adminů
 published: true
-date: 2024-05-12T15:17:18.026Z
+date: 2024-05-12T15:19:09.458Z
 tags: sekce adminů, příkazy
 editor: markdown
 dateCreated: 2024-04-24T17:47:40.538Z
 ---
 
-| Příkaz | Vysvětlení |
+| Příkaz | Vysvětlení | Úroveň přístupu |
 |-----------|-----------|
 | **/dupeip [hráč]**   | Zobrazí hráčovo alt účty a statusy těchto účtu (Online/Offline nebo Ban/Ipban)   |
 | **/nlogin verify [hráč**]   | Zobrazí všechny hráčovo alt účty, UUID, poslední IP, email a jestli má origo přihlašování nebo warez
@@ -45,3 +45,5 @@ dateCreated: 2024-04-24T17:47:40.538Z
 | **/co inspect**| Zapne režim kontroly, zobrazuje informace o interakcích specifického bloku na který klikáš rukou
 | **/gmsp**| Nastaví pro tebe spectator mod
 | **/gms**|  Nastaví pro tebe survival mod
+
+
