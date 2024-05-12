@@ -2,7 +2,7 @@
 title: Admin příkazy
 description: Sekce adminů
 published: true
-date: 2024-05-12T15:51:55.078Z
+date: 2024-05-12T15:52:33.492Z
 tags: sekce adminů, příkazy
 editor: markdown
 dateCreated: 2024-04-24T17:47:40.538Z
@@ -33,6 +33,7 @@ dateCreated: 2024-04-24T17:47:40.538Z
 > Na určitý příkazy se nachádzejí i alternativy.
 {.is-info}
 
+| Příkaz | Vysvětlení |
 |----------|-------|
 | **/time [day/night/atd.]**| Nastaví specifický čas ve světě kde se nacházíš
 | **/clearchat**| Vymaže chat na serveru
