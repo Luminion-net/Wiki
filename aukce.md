@@ -2,7 +2,7 @@
 title: Aukční síň
 description: Ekonomika
 published: true
-date: 2024-04-25T01:44:56.476Z
+date: 2024-05-19T05:04:43.982Z
 tags: ekonomika, aukce
 editor: markdown
 dateCreated: 2024-04-12T07:02:35.114Z
@@ -24,7 +24,7 @@ Zde najdeš nejčastější dotazy ohledně aukční síně. Pokud jsi nenašel/
 4. Vlož předmět který chceš prodat do prázdného políčka uprostřed GUI a klikni na **Pokračovat**.
 5. V případě prodeje s pevnou cenou nastav cenu **cena** za kterou se bude předmět prodávat, v případě prodeje s možností příhozu nastav počátekční cenu **Počáteční Cena**, výkupní cenu **Výkupní Cena (koupit ihned)**, výši příhozu **Výše Příhozu** a zda má být možnost koupit předmět ihned **Možnost Koupit Ihned** aktivní.
 
-> Hráč může mít v aukční síni na prodej maximálně 10 předmětu, VIP hráč 30 předmětů.
+> Hráč může mít v aukční síni na prodej maximálně 10 předmětů, VIP hráč 30 předmětů.
 {.is-info}
 
 ## Kde najdu předměty které se neprodaly?
