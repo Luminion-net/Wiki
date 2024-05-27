@@ -2,7 +2,7 @@
 title: Hlavní stránka
 description: Vítejte na wiki Luminionu
 published: true
-date: 2024-04-14T17:31:46.845Z
+date: 2024-05-27T05:57:48.953Z
 tags: home, homepage
 editor: markdown
 dateCreated: 2024-04-14T17:31:46.845Z
@@ -47,7 +47,9 @@ Je několik důvodů, proč se tak stalo. Nejčastějším důvodem je AntiBot, 
 Lagy jsou nepříjemné a někdy mohou způsobit samovolné odpojení ze serveru. Příčinou je téměř vždy připojení k internetu. Zkontroluj si ping a rychlost připojení. Ping ti většinou ukáže přímo server, ale rychlost připojení už si musíš změřit sám/sama. Užitečným pomocníkem v tomto případě může být Speedtest.net.
 
 ### Nedaří se mi přihlásit/registrovat
-Server má možnost přihlašování s platnou placenou licencí hry. To znamená, že hráč, který si hru koupil, se nemusí přihlašovat pomocí hesla. Jeho účet je automaticky chráněn. Jinak se hráči musí při prvním připojení registrovat a zvolit si heslo. Stejné heslo by mělo být platné i na webu Luminion.net. Další připojení si žádá poté zadání zvoleného hesla. Pokud jsi zapomněl/-a své heslo a máš nastavený email u svého účtu, otevři [Web](https://luminion.net/recover-account), vyplň údaje a po potvrzení ti přijde email s odkazem pro obnovení hesla, v opačném případě napiš na podporu.
+Server má možnost přihlašování s platnou placenou licencí hry. To znamená, že hráč, který si hru koupil, se nemusí přihlašovat pomocí hesla. Jeho účet je automaticky chráněn. Jinak se hráči musí při prvním připojení registrovat a zvolit si heslo. Stejné heslo je platné i na webu Luminion.net. Další připojení si žádá poté zadání zvoleného hesla. Pokud jsi zapomněl/-a své heslo, můžeš si pomocí emailu zažádat o změnu hesla, otevři [Web](https://luminion.net/recover-account), vyplň údaje a po potvrzení ti přijde email s odkazem pro obnovení hesla, v opačném případě napiš na podporu.
+> Pro hraní na serveru je nutné mít propojený email s herním účtem, to znamená po přihlášení nebo registraci zadat /email add <tvůj email> a poté se řídit instrukcí v doručeném emailu.
+{.is-info}
 
 ## PROPOJENÍ ÚČTU
 ### Nemohu se přihlásit na web
