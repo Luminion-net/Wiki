@@ -2,7 +2,7 @@
 title: Známé problémy
 description: Základní informace
 published: true
-date: 2024-06-06T21:27:09.039Z
+date: 2024-06-10T20:31:35.475Z
 tags: základní info, problémy
 editor: markdown
 dateCreated: 2024-06-06T21:27:09.039Z
@@ -21,6 +21,8 @@ dateCreated: 2024-06-06T21:27:09.039Z
   Tato chyba se neprojevuje v inventáři, nýbrž u předmětů na zemi, kde je vidět název předmětu nad ním. Překlad názvu předmětu někdy neodpovídá zvolenému jazyku hráče, odpovídá zvolenému jazyku jiného hráče, který v blízkosti daného předmětu.
 - **Náhodný teleport v netheru někdy teleportuje do nebezpečných lokací.**
   Náhodný teleport v netheru je prozatím vypnutý z důvodu občasného teleportu do nebezpečných lokací (láva, díra, apod.)
+- **Emotikony rozbíjí formát zpráv.**
+  Zprávy od hráčů jsou šedé. Nicméně emojis tento formát rozbíjí a za jakýmkoliv smajlíkem je zbytek textu bílý. Bohužel zatím nejsme schopni tento problém odstranit, na řešení pracujeme.
 
 > **Pokud nalezneš další chybu, neváhej nám ji oznámit.**
 > Pokud by vyřešení chyby trvalo delší dobu, přidáme ji sem. V případě nalezení řešení zde již zmíněných chyb a jejich aplikaci mohou být jejich zmínky z tohoto seznamu odstraněny.
