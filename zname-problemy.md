@@ -2,7 +2,7 @@
 title: Známé problémy
 description: Základní informace
 published: true
-date: 2024-06-10T22:38:31.353Z
+date: 2024-06-11T09:00:15.318Z
 tags: základní info, problémy
 editor: markdown
 dateCreated: 2024-06-06T21:27:09.039Z
@@ -12,7 +12,7 @@ dateCreated: 2024-06-06T21:27:09.039Z
 > V zájmu zachování aktuálnosti této stránky se mohou informace zde měnit.
 {.is-warning}
 
-> Na této stránce najdeŠ známé chyby a problémy, o kterých víme, a které jsou v řešení.
+> Na této stránce najdeš známé chyby a problémy, o kterých víme, a které jsou v řešení.
 > **Prosíme nenahlašuj tyto chyby.**
 {.is-info}
 
