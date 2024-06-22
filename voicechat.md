@@ -2,7 +2,7 @@
 title: Voice chat
 description: Součásti serveru
 published: true
-date: 2024-05-10T17:17:35.099Z
+date: 2024-06-22T09:40:16.936Z
 tags: součásti serveru, voicechat, hlas
 editor: markdown
 dateCreated: 2024-04-24T17:40:53.287Z
@@ -35,5 +35,5 @@ Na serveru používáme standardní ikony převzaté z resourcepacku samotného 
 > Server používá verzi voice chatu 2.5.x. Pokud se připojíš s jinou verzí, voice chat ti nebude fungovat.
 {.is-info}
 
-> **Voice chat udržujeme aktualizovaný. Sleduj oznámení na Discordu.**
+> **Voice chat udržujeme aktualizovaný. Sleduj oznámení ve fóru na webu.**
 {.is-warning}
