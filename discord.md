@@ -2,7 +2,7 @@
 title: Discord
 description: Základní informace
 published: true
-date: 2024-06-22T09:55:27.509Z
+date: 2024-06-22T09:57:26.116Z
 tags: základní info, discord
 editor: markdown
 dateCreated: 2024-04-14T20:52:45.327Z
@@ -14,7 +14,7 @@ dateCreated: 2024-04-14T20:52:45.327Z
 Žádný Minecraft server se neobejde bez komunikačního prostředku. Některé Minecraft servery používají TeamSpeak, ten ale u nás nenajdeš. Většina hráčů používá **Discord**, který nabízí množství různých aktivit, a samozřejmě textové a hlasové kanály, ve kterých mohou hráči spolu hovořit.
 
 A proto jsme se rozhodli nekomplikovat to a vsadit na Discord komunitu. Kromě možnosti si psát s ostatními hráči si zde můžete volat a sdílet obrazovaku nebo hru. 
-Jako platforma na které se odehrávají veškeré oznámení a důležité diskuze nebo komunikace přes tickety zůstává nicméně stále web https://luminion.net. Podporu samozřejmě lze kontaktovat i na emailu support@luminion.net.
+Jako platforma na které se odehrávají veškeré oznámení a důležité diskuze nebo komunikace přes tickety zůstává nicméně stále web https://luminion.net. Podporu samozřejmě lze kontaktovat i na emailu support@luminion.net, hlavně pokuď z jakéhokoliv důvodu nemůžete otevřít ticket na webu.
 
 # Struktura
 ## [IMPORTANT] DŮLEŽITÉ KANÁLY
