@@ -2,7 +2,7 @@
 title: Discord
 description: Základní informace
 published: true
-date: 2024-06-22T09:57:26.116Z
+date: 2024-06-22T14:52:36.165Z
 tags: základní info, discord
 editor: markdown
 dateCreated: 2024-04-14T20:52:45.327Z
@@ -20,10 +20,14 @@ Jako platforma na které se odehrávají veškeré oznámení a důležité disk
 ## [IMPORTANT] DŮLEŽITÉ KANÁLY
 ### #welcome
 Kanál, kde jsou oznámení o příchozích a odchozích hráčích na Discordu. Tento kanál je jen pro čtení.
+
 ### #announcements
 Kanál, kde najdeš oznámení o novinkách na serveru, a také důležitá oznámení týkající se aktualizací a výpadků.
+
 ### #roles
-Zde si můžeš vybrat roli CZ nebo EN která ukazuje ostatním jakým jazykem umíš.
+![Role na našem Discordu](/discord_roles.png "Role na našel Discordu" =300x){.align-right} Zde si můžeš vybrat roli CZ nebo EN která ukazuje ostatním jakým jazykem umíš.
+<div class="clear"></div>
+
 ### #info
 Základní důležité informace ohledně serveru. Zde najdeš třeba odkaz na Discord a sociální sítě, odkaz na web a e-shop a odkaz na Discord úrovně, a také IP serveru.
 ### #rules
@@ -47,7 +51,8 @@ Technický kanál pro dotazy směřované botovi.
 {.is-warning}
 
 ### #survival
-Tento kanál obsahuje živý chat ze hry, kde lze obousměrně komunikovat s hráči na serveru a na Discordu. Jsou zde i pokroky ze hry, a také události na serveru (úmrtí hráčů a jejich připojení a odpojení).
+![Survival chat na Discordu](/discord_chat_survival.png "Survival chat na Discordu" =300x){.align-left} Tento kanál obsahuje živý chat ze hry, kde lze obousměrně komunikovat s hráči na serveru a na Discordu. Jsou zde i pokroky ze hry, a také události na serveru (úmrtí hráčů a jejich připojení a odpojení).
+<div class="clear"></div>
 
 ## [CONTENT CREATORS] KOUTEK TVŮRCŮ
 ### #stream
