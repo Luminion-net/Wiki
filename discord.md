@@ -2,7 +2,7 @@
 title: Discord
 description: Základní informace
 published: true
-date: 2024-06-22T14:52:36.165Z
+date: 2024-06-22T14:54:23.939Z
 tags: základní info, discord
 editor: markdown
 dateCreated: 2024-04-14T20:52:45.327Z
@@ -25,7 +25,7 @@ Kanál, kde jsou oznámení o příchozích a odchozích hráčích na Discordu.
 Kanál, kde najdeš oznámení o novinkách na serveru, a také důležitá oznámení týkající se aktualizací a výpadků.
 
 ### #roles
-![Role na našem Discordu](/discord_roles.png "Role na našel Discordu" =300x){.align-right} Zde si můžeš vybrat roli CZ nebo EN která ukazuje ostatním jakým jazykem umíš.
+![Role na našem Discordu](/discord_roles.png "Role na našem Discordu" =300x){.align-right} Zde si můžeš vybrat roli CZ nebo EN která ukazuje ostatním jakým jazykem umíš.
 <div class="clear"></div>
 
 ### #info
